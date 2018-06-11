@@ -1,4 +1,7 @@
 # EBMSASS
+
+NOTE: This repo is consolidated with https://github.com/HamedHassanzadeh/EBMSASS
+
 Biomedical Scientific Artefacts Semantic Similarity Quantification
 
 Each file contains pairs of scientific artefacts (sentences) and the ground truth semantic similarity scores. The format of the data is as followings:
